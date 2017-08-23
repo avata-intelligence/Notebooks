@@ -1,0 +1,19 @@
+ID, Name, Relate, Category, Desc, All
+101, 'Arson', '1', 'category', 'cArson', 'all');
+102, 'Robbery', '2', 'category', 'cRobbery', 'all');
+103, 'Sex Offense', '3,4', 'category', 'cSexOffense', 'all');
+104, 'Vandalism', '5,6', 'category', 'cVandalism', 'all');
+105, 'Theft', '13,14,15,16', 'category', 'cTheft', 'all');
+106, 'Burglary', '17,18,19,20,21', 'category', 'cBurglary', 'all');
+107, 'Assault', '22', 'category', 'cAssault', 'all');
+108, 'Violent Crimes', '7,25,39', 'category', 'cViolentCrime', 'all');
+109, 'Manslaughter', '23,24', 'category', 'cManslaughter', 'all');
+110, 'Quality of Life & 911', '8,11,30,33,40', 'category', 'cQualityOfLifeAnd911', 'all');
+111, 'Traffic', '9,10', 'category', 'cTraffic', 'all');
+112, 'Violations and Fraud', '26,27,31,36', 'category', 'cViolations', 'all');
+113, 'Internet Crime', '12,29', 'category', 'cInternet', 'all');
+114, 'Warrants and Registrants', '28,34', 'category', 'cWarrant', 'all');
+115, 'Assistance and Recovery', '35,38', 'category', 'cAssistance', 'all');
+116, 'Juvenile Related', '37', 'category', 'cJuvinile', 'all');
+117, 'Other', '32', 'category', 'cOther', 'all');
+
